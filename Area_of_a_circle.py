@@ -1,2 +1,3 @@
-n=int(input())
-print(3.14*n**2)
+x=int(input())
+area=3.14*x**2
+print(area)

@@ -6,6 +6,6 @@ while n>0:
     rev=rev*10+r
     n=n//10
 if t==rev:
-    print("True")
+    print('True')
 else:
-    print("False")
+    print('False')
